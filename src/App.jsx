@@ -1,5 +1,5 @@
 import React, { createContext, useState } from 'react'
-import { Button, Col, Container, Image, Row } from 'react-bootstrap'
+import { Col, Container, Row } from 'react-bootstrap'
 import IconButton from './components/IconButton'
 import ProfileHeader from './components/ProfileHeader'
 import { PROFILE_DATA } from './data';
